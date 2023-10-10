@@ -1,0 +1,17 @@
+#king{
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    margin:10px;
+    margin-right: 10%;
+
+}
+.queen{
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    margin:20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
